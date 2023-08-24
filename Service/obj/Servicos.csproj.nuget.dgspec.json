@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Service\\Servicos.csproj": {}
+    "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Service\\Servicos.csproj": {}
   },
   "projects": {
-    "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Domain\\Dominio.csproj": {
+    "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Domain\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Domain\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Domain\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Domain\\Dominio.csproj",
+        "projectPath": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Domain\\Dominio.csproj",
         "packagesPath": "C:\\Users\\jaque\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jaque\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Dtos\\Dtos.csproj": {
-                "projectPath": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Dtos\\Dtos.csproj"
+              "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Dtos\\Dtos.csproj": {
+                "projectPath": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Dtos\\Dtos.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Dtos\\Dtos.csproj": {
+    "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Dtos\\Dtos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Dtos\\Dtos.csproj",
+        "projectUniqueName": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Dtos\\Dtos.csproj",
         "projectName": "Dtos",
-        "projectPath": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Dtos\\Dtos.csproj",
+        "projectPath": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Dtos\\Dtos.csproj",
         "packagesPath": "C:\\Users\\jaque\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Dtos\\obj\\",
+        "outputPath": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Dtos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jaque\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -118,14 +118,14 @@
         }
       }
     },
-    "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Infra.SqlServer\\Infra.SqlServer.csproj": {
+    "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Infra.SqlServer\\Infra.SqlServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Infra.SqlServer\\Infra.SqlServer.csproj",
+        "projectUniqueName": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Infra.SqlServer\\Infra.SqlServer.csproj",
         "projectName": "Infra.SqlServer",
-        "projectPath": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Infra.SqlServer\\Infra.SqlServer.csproj",
+        "projectPath": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Infra.SqlServer\\Infra.SqlServer.csproj",
         "packagesPath": "C:\\Users\\jaque\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Infra.SqlServer\\obj\\",
+        "outputPath": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Infra.SqlServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jaque\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -142,8 +142,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Infrastructure\\Infraestrutura.csproj": {
-                "projectPath": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Infrastructure\\Infraestrutura.csproj"
+              "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Infrastructure\\Infraestrutura.csproj": {
+                "projectPath": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Infrastructure\\Infraestrutura.csproj"
               }
             }
           }
@@ -197,14 +197,14 @@
         }
       }
     },
-    "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Infrastructure\\Infraestrutura.csproj": {
+    "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Infrastructure\\Infraestrutura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Infrastructure\\Infraestrutura.csproj",
+        "projectUniqueName": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Infrastructure\\Infraestrutura.csproj",
         "projectName": "Infraestrutura",
-        "projectPath": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Infrastructure\\Infraestrutura.csproj",
+        "projectPath": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Infrastructure\\Infraestrutura.csproj",
         "packagesPath": "C:\\Users\\jaque\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jaque\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -221,8 +221,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Domain\\Dominio.csproj": {
-                "projectPath": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Domain\\Dominio.csproj"
+              "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Domain\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Domain\\Dominio.csproj"
               }
             }
           }
@@ -282,14 +282,14 @@
         }
       }
     },
-    "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Service\\Servicos.csproj": {
+    "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Service\\Servicos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Service\\Servicos.csproj",
+        "projectUniqueName": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Service\\Servicos.csproj",
         "projectName": "Servicos",
-        "projectPath": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Service\\Servicos.csproj",
+        "projectPath": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Service\\Servicos.csproj",
         "packagesPath": "C:\\Users\\jaque\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Service\\obj\\",
+        "outputPath": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jaque\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -306,14 +306,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Domain\\Dominio.csproj": {
-                "projectPath": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Domain\\Dominio.csproj"
+              "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Domain\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Domain\\Dominio.csproj"
               },
-              "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Dtos\\Dtos.csproj": {
-                "projectPath": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Dtos\\Dtos.csproj"
+              "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Dtos\\Dtos.csproj": {
+                "projectPath": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Dtos\\Dtos.csproj"
               },
-              "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Infra.SqlServer\\Infra.SqlServer.csproj": {
-                "projectPath": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Infra.SqlServer\\Infra.SqlServer.csproj"
+              "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Infra.SqlServer\\Infra.SqlServer.csproj": {
+                "projectPath": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Infra.SqlServer\\Infra.SqlServer.csproj"
               }
             }
           }

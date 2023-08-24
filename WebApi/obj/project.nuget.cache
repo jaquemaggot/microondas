@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xu30IXj2tZl4gfJlAY7Oy432OT2SErAV8XuDR+W9NEFpJttNUmJ9rzFRgetUVwNHJddwk2otMIQTs832hph5wA==",
+  "dgSpecHash": "xgEq/GKOqIH/qVfxXwkuprdEATU5Pk8Dv5XhH2Qah0a9OUiSp0gtOS+Bu7WeQ2ROwuIAnYwa5ejUbspxzbLcdg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jaque\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\jaque\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Dtos\\Dtos.csproj",
+      "projectUniqueName": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Dtos\\Dtos.csproj",
       "projectName": "Dtos",
-      "projectPath": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Dtos\\Dtos.csproj",
+      "projectPath": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Dtos\\Dtos.csproj",
       "packagesPath": "C:\\Users\\jaque\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Dtos\\obj\\",
+      "outputPath": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Dtos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jaque\\AppData\\Roaming\\NuGet\\NuGet.Config",

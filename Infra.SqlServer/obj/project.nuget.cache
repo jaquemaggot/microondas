@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UT4yUhHxFpcNx8IRryUFTYt0gWQ8ehc9HP8ZbboP1iePiu6UTCEoZLPe/nVVNFumTvbWumC3qF/oDZhF0dj3RA==",
+  "dgSpecHash": "PQbJc68y5oVeVjb2DSS5Oa5vaU9yQwxB6G7hbFJTIkwYPmh6+jS3tclqfIr9tJZgM6U/1ZfOyrDTw4pehgXRHQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Infra.SqlServer\\Infra.SqlServer.csproj",
+  "projectFilePath": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Infra.SqlServer\\Infra.SqlServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jaque\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\jaque\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

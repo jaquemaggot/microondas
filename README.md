@@ -26,18 +26,18 @@ Para executar o projeto siga os passos:
 
 :memo: Clone o Projeto
 
-:memo: Altere o arquivo appsettings.json (src/Api.Application) informando seu dados de acesso ao SQL Server em DefaultConnection
+:memo: Altere o arquivo appsettings.json (WebApi) informando seu dados de acesso ao SQL Server em DefaultConnection
 
-:memo: Execute os seguintes comandos (Dentro da pasta API.Application):
+:memo: Execute os seguintes comandos (Dentro da pasta WebApi):
        
        dotnet restore
        dotnet build
 
-:memo: Para criar o banco de dados utilize o seguinte comando (Dentro da pasta API.Application):
+:memo: Para criar o banco de dados utilize o seguinte comando (Dentro da pasta WebApi):
 
        dotnet ef database update
 
-:memo: No terminal digite (Dentro da pasta API.Application): 
+:memo: No terminal digite (Dentro da pasta WebApi): 
 
        dotnet run
 

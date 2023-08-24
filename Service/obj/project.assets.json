@@ -2494,11 +2494,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Service\\Servicos.csproj",
+      "projectUniqueName": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Service\\Servicos.csproj",
       "projectName": "Servicos",
-      "projectPath": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Service\\Servicos.csproj",
+      "projectPath": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Service\\Servicos.csproj",
       "packagesPath": "C:\\Users\\jaque\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Service\\obj\\",
+      "outputPath": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jaque\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2515,14 +2515,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Domain\\Dominio.csproj": {
-              "projectPath": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Domain\\Dominio.csproj"
+            "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Domain\\Dominio.csproj": {
+              "projectPath": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Domain\\Dominio.csproj"
             },
-            "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Dtos\\Dtos.csproj": {
-              "projectPath": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Dtos\\Dtos.csproj"
+            "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Dtos\\Dtos.csproj": {
+              "projectPath": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Dtos\\Dtos.csproj"
             },
-            "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Infra.SqlServer\\Infra.SqlServer.csproj": {
-              "projectPath": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Infra.SqlServer\\Infra.SqlServer.csproj"
+            "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Infra.SqlServer\\Infra.SqlServer.csproj": {
+              "projectPath": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Infra.SqlServer\\Infra.SqlServer.csproj"
             }
           }
         }

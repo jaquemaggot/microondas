@@ -19,3 +19,24 @@ C:\Users\jaque\OneDrive\Documentos\projetos\Microondas\Infra.SqlServer\obj\Debug
 C:\Users\jaque\OneDrive\Documentos\projetos\Microondas\Infra.SqlServer\obj\Debug\net6.0\ref\Infra.SqlServer.dll
 C:\Users\jaque\OneDrive\Documentos\projetos\Microondas\Infra.SqlServer\bin\Debug\net6.0\Dtos.dll
 C:\Users\jaque\OneDrive\Documentos\projetos\Microondas\Infra.SqlServer\bin\Debug\net6.0\Dtos.pdb
+C:\Users\jaque\OneDrive\Área de Trabalho\microondas\Infra.SqlServer\bin\Debug\net6.0\Infra.SqlServer.deps.json
+C:\Users\jaque\OneDrive\Área de Trabalho\microondas\Infra.SqlServer\bin\Debug\net6.0\Infra.SqlServer.runtimeconfig.json
+C:\Users\jaque\OneDrive\Área de Trabalho\microondas\Infra.SqlServer\bin\Debug\net6.0\Infra.SqlServer.dll
+C:\Users\jaque\OneDrive\Área de Trabalho\microondas\Infra.SqlServer\bin\Debug\net6.0\Infra.SqlServer.pdb
+C:\Users\jaque\OneDrive\Área de Trabalho\microondas\Infra.SqlServer\bin\Debug\net6.0\Dominio.dll
+C:\Users\jaque\OneDrive\Área de Trabalho\microondas\Infra.SqlServer\bin\Debug\net6.0\Dtos.dll
+C:\Users\jaque\OneDrive\Área de Trabalho\microondas\Infra.SqlServer\bin\Debug\net6.0\Infraestrutura.dll
+C:\Users\jaque\OneDrive\Área de Trabalho\microondas\Infra.SqlServer\bin\Debug\net6.0\Infraestrutura.pdb
+C:\Users\jaque\OneDrive\Área de Trabalho\microondas\Infra.SqlServer\bin\Debug\net6.0\Dominio.pdb
+C:\Users\jaque\OneDrive\Área de Trabalho\microondas\Infra.SqlServer\bin\Debug\net6.0\Dtos.pdb
+C:\Users\jaque\OneDrive\Área de Trabalho\microondas\Infra.SqlServer\obj\Debug\net6.0\Infra.SqlServer.csproj.AssemblyReference.cache
+C:\Users\jaque\OneDrive\Área de Trabalho\microondas\Infra.SqlServer\obj\Debug\net6.0\Infra.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaque\OneDrive\Área de Trabalho\microondas\Infra.SqlServer\obj\Debug\net6.0\Infra.SqlServer.AssemblyInfoInputs.cache
+C:\Users\jaque\OneDrive\Área de Trabalho\microondas\Infra.SqlServer\obj\Debug\net6.0\Infra.SqlServer.AssemblyInfo.cs
+C:\Users\jaque\OneDrive\Área de Trabalho\microondas\Infra.SqlServer\obj\Debug\net6.0\Infra.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\jaque\OneDrive\Área de Trabalho\microondas\Infra.SqlServer\obj\Debug\net6.0\Infra.SqlServer.csproj.CopyComplete
+C:\Users\jaque\OneDrive\Área de Trabalho\microondas\Infra.SqlServer\obj\Debug\net6.0\Infra.SqlServer.dll
+C:\Users\jaque\OneDrive\Área de Trabalho\microondas\Infra.SqlServer\obj\Debug\net6.0\refint\Infra.SqlServer.dll
+C:\Users\jaque\OneDrive\Área de Trabalho\microondas\Infra.SqlServer\obj\Debug\net6.0\Infra.SqlServer.pdb
+C:\Users\jaque\OneDrive\Área de Trabalho\microondas\Infra.SqlServer\obj\Debug\net6.0\Infra.SqlServer.genruntimeconfig.cache
+C:\Users\jaque\OneDrive\Área de Trabalho\microondas\Infra.SqlServer\obj\Debug\net6.0\ref\Infra.SqlServer.dll

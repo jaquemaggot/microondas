@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Domain\\Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Domain\\Dominio.csproj",
       "projectName": "Dominio",
-      "projectPath": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Domain\\Dominio.csproj",
+      "projectPath": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Domain\\Dominio.csproj",
       "packagesPath": "C:\\Users\\jaque\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jaque\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Dtos\\Dtos.csproj": {
-              "projectPath": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Dtos\\Dtos.csproj"
+            "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Dtos\\Dtos.csproj": {
+              "projectPath": "C:\\Users\\jaque\\OneDrive\\Área de Trabalho\\microondas\\Dtos\\Dtos.csproj"
             }
           }
         }
