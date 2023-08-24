@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+LC38BQ7K4GY4vMiyRs+ufq0RiB5qCqHxKj/Wi/4KgaXOQJp5Xg/DCxrSxk1DyLcS07dUTua75hZpRMx7vTXyQ==",
+  "dgSpecHash": "qVG55YcUjIDYP+kBkQSXuhWoI3un0nvQJ2ZZqbDxYXf/gNLiELUxZnYimrJCNwqEkaBkfRYtXqyntXplVjnPwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jaque\\OneDrive\\Documentos\\projetos\\microondas\\Infrastructure\\Infraestrutura.csproj",
+  "projectFilePath": "c:\\Users\\jaque\\OneDrive\\Documentos\\ProjetosCopia\\microondas\\Infrastructure\\Infraestrutura.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jaque\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\jaque\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
